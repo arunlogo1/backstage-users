@@ -18,4 +18,4 @@ metadata:
     email: arunlogo.kct@gmail.com
     picture: 
 spec:
-  memberOf: [thoughtworks, awesome-project,awesome-project-pet]
+  memberOf: [thoughtworks, awesome-project,awesome-pet]
